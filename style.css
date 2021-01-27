@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    color: darkblue;
+    font-size: 35px;
+}
+
+.line {
+    width: 400px;
+    height: 5px;
+    margin: 8px auto;
+    
+}
